@@ -2,7 +2,7 @@
 
 Synthia AI is a revolutionary AI agent designed to empower users with advanced tools for navigating the complex world of blockchain and cryptocurrency. From detailed technical analysis to smart contract intelligence and real-time market insights, Synthia provides unparalleled assistance to traders, developers, and investors alike.
 
-- [Buy $SYNTH on Virtuals](https://app.virtuals.io) on Pancakeswap
+- [Buy $SYNTH](https://app.virtuals.io) on Virtuals
 
 ---
 
